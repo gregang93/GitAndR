@@ -1,1 +1,1 @@
-foo = function() return(1)
+foo = function() return(0)
